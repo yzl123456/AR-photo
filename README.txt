@@ -1,5 +1,5 @@
 项目展示：
-![image](https://img-blog.csdn.net/20180728233454520?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2EzNzY3MTIxMTY=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70?raw=true)
+![image](https://github.com/yzl123456/AR-photo/blob/master/%E9%A1%B9%E7%9B%AE%E6%95%88%E6%9E%9CGIF/ar-photo.gif?raw=true)
 
 中文版：
 该项目是将博物馆中的文物虚拟化，利用AR增强现实技术与到访的游客进行合影，让文物不再只可远观，带来别样体验。有APP和服务端，APP进行AR合影后将图片上传到服务器，游客通过扫描合影图片右下角的二维码从服务器上下载图片保存。
