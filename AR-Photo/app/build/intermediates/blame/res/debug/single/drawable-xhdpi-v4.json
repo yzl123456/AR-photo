@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\JAVAAPI\\AR-Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\soilder.jpg",
+        "source": "H:\\JAVAAPI\\AR-Photo\\app\\src\\main\\res\\drawable-xhdpi\\soilder.jpg"
+    },
+    {
+        "merged": "D:\\androidwork\\VuforiaJpct-5.15\\VuforiaJpct-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\soilder.jpg",
+        "source": "D:\\androidwork\\VuforiaJpct-5.15\\VuforiaJpct-master\\app\\src\\main\\res\\drawable-xhdpi\\soilder.jpg"
+    },
+    {
+        "merged": "H:\\JAVAAPI\\VuforiaJpct-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\soilder.jpg",
+        "source": "H:\\JAVAAPI\\VuforiaJpct-master\\app\\src\\main\\res\\drawable-xhdpi\\soilder.jpg"
+    }
+]

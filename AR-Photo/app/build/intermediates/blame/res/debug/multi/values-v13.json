@@ -1,0 +1,80 @@
+[
+    {
+        "outputFile": "D:\\androidwork\\VuforiaJpct-5.15\\VuforiaJpct-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "D:\\androidwork\\VuforiaJpct-5.15\\VuforiaJpct-master\\app\\src\\main\\res\\values-v13\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 277
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "H:\\JAVAAPI\\VuforiaJpct-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "H:\\JAVAAPI\\VuforiaJpct-master\\app\\src\\main\\res\\values-v13\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 277
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "H:\\JAVAAPI\\AR-Photo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "H:\\JAVAAPI\\AR-Photo\\app\\src\\main\\res\\values-v13\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 277
+                    }
+                }
+            }
+        ]
+    }
+]

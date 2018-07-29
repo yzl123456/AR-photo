@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:2:1-128:12
+	package
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:14:5-74
+MERGED from [com.android.support:recyclerview-v7:23.0.0] H:\JAVAAPI\AR-Photo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] H:\JAVAAPI\AR-Photo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:14:42-71
+		INJECTED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:14:15-41
+		INJECTED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:16:5-54
+	android:glEsVersion
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:16:19-51
+uses-feature#android.hardware.camera
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:32:5-60
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:32:19-57
+uses-permission#android.permission.CAMERA
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:37:5-65
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:37:22-62
+uses-permission#android.permission.INTERNET
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:42:5-66
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:42:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:48:5-79
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:48:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:50:5-79
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:50:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:51:5-80
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:51:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:52:5-83
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:52:22-81
+application
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:63:5-126:19
+MERGED from [com.android.support:support-v4:23.0.0] H:\JAVAAPI\AR-Photo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:65:9-29
+	android:launchMode
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:67:9-40
+	android:allowBackup
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:68:9-36
+	android:icon
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:64:9-38
+	android:description
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:66:9-54
+	android:theme
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:69:9-47
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.ActivitySplashScreen
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:88:10-99:21
+	android:screenOrientation
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:91:13-49
+	android:noHistory
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:92:13-37
+	android:configChanges
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:90:13-93
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:89:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:94:13-98:29
+action#android.intent.action.MAIN
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:95:17-69
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:95:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:97:17-77
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:97:27-74
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.ActivityLauncher
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:101:9-106:20
+	android:screenOrientation
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:104:13-49
+	android:configChanges
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:103:13-93
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:102:13-61
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.AboutScreen
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:108:10-114:20
+	android:screenOrientation
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:111:13-49
+	android:noHistory
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:112:13-37
+	android:configChanges
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:110:13-93
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:109:13-56
+activity#com.vuforia.samples.VuforiaSamples.app.ImageTargets.ImageTargets
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:116:9-122:20
+	android:launchMode
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:120:11-42
+	android:configChanges
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:118:13-93
+	android:theme
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:119:10-48
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:117:13-58
+activity#com.vuforia.samples.VuforiaSamples.app.ImageTargets.PicturePreviewActivity
+ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:123:9-125:83
+	android:theme
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:125:13-71
+	android:name
+		ADDED from H:\JAVAAPI\AR-Photo\app\src\main\AndroidManifest.xml:124:13-68

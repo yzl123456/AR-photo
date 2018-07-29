@@ -1,0 +1,131 @@
+[
+    {
+        "outputFile": "H:\\JAVAAPI\\VuforiaJpct-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "H:\\JAVAAPI\\VuforiaJpct-master\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 49,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "H:\\JAVAAPI\\VuforiaJpct-master\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 49,
+                        "endOffset": 150
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "H:\\JAVAAPI\\AR-Photo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "H:\\JAVAAPI\\AR-Photo\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 49,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "H:\\JAVAAPI\\AR-Photo\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 49,
+                        "endOffset": 150
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\androidwork\\VuforiaJpct-5.15\\VuforiaJpct-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "D:\\androidwork\\VuforiaJpct-5.15\\VuforiaJpct-master\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 49,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "D:\\androidwork\\VuforiaJpct-5.15\\VuforiaJpct-master\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 49,
+                        "endOffset": 150
+                    }
+                }
+            }
+        ]
+    }
+]

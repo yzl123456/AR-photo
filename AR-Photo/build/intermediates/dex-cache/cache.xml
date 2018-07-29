@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\libs\okio-1.14.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd22672d0999a1a4d13b542b5dd855a89e69993">
+        <dex dex="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\pre-dexed\debug\okio-1.14.1_dfa5e64e87d5ddc1a8fbfefa7a6d2b1967d6b2f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\libs\jpct_ae.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c041cea0610a8c1c1b22486e026d519bc7713333">
+        <dex dex="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\pre-dexed\debug\jpct_ae_e40abc04ca1635c7ec87755d104f29f2dbd9c019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\JAVAAPI\AR-Photo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="H:\JAVAAPI\AR-Photo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_905dab06cb8a0189797fec6b2c7a72556cae14da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\pre-dexed\debug\Vuforia_17a25a1c0d7484d94175e8983cc15cbdab760676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.0_ab9ea273f53d6098a5fbe5108d0aad6500de5dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_c00b05b3cc924ac05dea815628809f6adacf48d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\libs\zixing-core-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\pre-dexed\debug\zixing-core-3.2.0_2dc58c94e48e9c7bb82e3a19a757b784962a891a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\JAVAAPI\AR-Photo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="H:\JAVAAPI\AR-Photo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_04cde34128c49389e6e4b65eaf66e24f07d1e9f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\libs\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_7c706f6f7efcf02fc97948dbc1456b2d3afc2e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\JAVAAPI\AR-Photo\app\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="H:\JAVAAPI\AR-Photo\app\build\intermediates\pre-dexed\debug\Vuforia_a268591f29cd638f5af77b392a1bb4f1ac5864d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_62518533554f227a4ca1c16c77c62dcf0ec657d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\JAVAAPI\AR-Photo\app\libs\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="H:\JAVAAPI\AR-Photo\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_17674324e76c57ab525b88df54afb35af21c3b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\JAVAAPI\AR-Photo\app\libs\jpct_ae.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c041cea0610a8c1c1b22486e026d519bc7713333">
+        <dex dex="H:\JAVAAPI\AR-Photo\app\build\intermediates\pre-dexed\debug\jpct_ae_7e636d5d65acbfa389e05b9b0c88d251cf982585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\androidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\androidwork\VuforiaJpct-5.15\VuforiaJpct-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_7a2d2df3544e994d94ae2c0c7217ebc9aff7bb47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\JAVAAPI\AR-Photo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="H:\JAVAAPI\AR-Photo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.0_b16fb30c7246bc3931ab303443a81a0b15a96059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\JAVAAPI\AR-Photo\app\libs\zixing-core-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="H:\JAVAAPI\AR-Photo\app\build\intermediates\pre-dexed\debug\zixing-core-3.2.0_06551b995c68a6729bf72293179188ceb629c4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\JAVAAPI\AR-Photo\app\libs\okio-1.14.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd22672d0999a1a4d13b542b5dd855a89e69993">
+        <dex dex="H:\JAVAAPI\AR-Photo\app\build\intermediates\pre-dexed\debug\okio-1.14.1_6ce3c71b3e5735bdd4cab106b48c99714eb1a6b9.jar" />
+    </item>
+
+</items>
